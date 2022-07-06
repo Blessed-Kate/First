@@ -1,0 +1,577 @@
+
+.header{
+  height: 400px;
+  width: 100%;
+  background-color: rgb(64,48,37);
+}
+.header a{
+  color: white;
+  text-decoration: none;
+}
+.header1{
+   width: 600px;
+  margin-left: 80px; 
+  
+}
+.header2{
+  width: 300px;
+  margin-left: 1090px;
+  margin-top: -15px;
+}
+.topnav{
+  width: 100%;
+  height: 100px;
+  
+}
+
+.logo{
+height: 50px;
+width: 300px;
+margin-left: 60px;
+}
+
+.linn{
+ margin-left: 450px;
+  margin-top: -25px;
+
+}
+
+.linn a{
+  padding-left: 20px;
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color:rgb(241, 91, 72);
+}
+.topnav button{
+  background-color: rgb(203,75,54);
+  width: 70px;
+  height: 30px;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  margin-left: 30px;
+}
+.middle{
+  color: black;
+  background-color: rgb(248,250,255);  
+  margin-left: 30px; 
+  width: 100%;
+  height: 500px;
+ 
+}
+.Events{
+  background-color:rgb(54,79,117);
+  width: 350px;
+  height: 400px;
+  border-radius: 25px;
+  margin-left: 30px;
+}
+.calendar{
+  margin-left: 40px; 
+  margin-top: -20px;
+  padding-top: 30px;
+
+}
+.baho{
+  margin-top: -70px;
+  margin-left: 125px; 
+}
+.now button{
+  margin-left: 95px;
+  margin-bottom: -90px;
+  height: 40px;
+  width: 120px;
+  background-color: rgb(203,75,54);
+  border: none;
+  border-radius: 20px;
+  color: white;
+ font-weight: bold;
+}
+.New{
+  background-color: rgb(241,91,67);
+ width: 350px;
+ height: 400px;
+  margin-left: 500px;
+  margin-top: -400px;
+  border-radius: 25px;
+  margin-right: -30px;
+  
+}
+.hands{
+  margin-left: 50px;
+  margin-top: -30px;
+  padding-top: 20px;
+}
+.i{
+  margin-left: 130px;
+  margin-top: -60px;
+  color: white;
+}
+.fam{
+text-align: center;
+color: white;
+font-size: larger;
+margin-top: 60px;
+}
+.read button{
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 120px;
+  height: 40px;
+  background-color:rgb(241,91,67);
+  border-radius: 20px;
+  color: white;
+  border-color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.Wall{
+  background-color: black;
+  color: white;
+  margin-left: 900px;
+  width: 350px;
+  height: 400px;
+  margin-top: -435px;
+  border-radius: 25px; 
+}
+.wal1{
+  margin-left: 98px;
+  margin-top: 30px;
+}
+.text{
+  text-align: center;
+  margin-top: 45px;
+}
+.learn button{
+  margin-left: 60px;
+  margin-top: 90px;
+  width: 120px;
+  height: 40px;
+  border-radius: 25px;
+  background-color:rgb(241,91,67); 
+  color: white;
+  font-weight: bold;
+}
+.Intro img{
+  margin-top: 100px;
+  border-radius: 25px;
+  margin-left: 90px;
+}
+.Intro button{
+  background-color: rgb(243, 43, 12);
+  width: 170px;
+  height: 50px;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  margin-top: 80px;
+}
+.us{
+  margin-left:750px;
+  margin-top: -400px;
+}
+.Pro{
+  background-color: rgb(248,250,255);
+
+}
+.teens{
+  width: 450px;
+  height: 450px;
+  border: solid 1px black;
+  border-radius: 20px;
+   
+}
+.teens img{
+  margin-left: 50px;
+  border-radius: 20px; 
+  margin-top: 20px;
+}
+.teens h2{
+  margin-left: 50px;
+  
+}
+.teens h5{
+  margin-left: 50px;
+}
+.teens button{
+ margin-left: 70px ;
+ background-color: rgb(243, 43, 12);
+ width: 120px;
+ height: 40px;
+ border: none;
+ border-radius: 25px;
+ color: white;
+
+}
+.fam1{
+  width: 450px;
+  height: 450px;
+  border: solid 1px black;
+  border-radius: 20px;  
+  margin-left: 500px;
+  margin-top: -450px;
+}
+.fam1 img{
+  margin-left: 50px;
+  border-radius: 20px; 
+  margin-top: 20px;
+}
+.fam1 h2{
+  margin-left: 50px;
+  margin-top: -5px;
+}
+.fam1 h5{
+  margin-left: 40px;
+  margin-top: -5px;
+}
+.fam1 button{
+  margin-left: 40px ;
+  background-color: rgb(243, 43, 12);
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+ }
+ .children{
+  width: 450px;
+  height: 450px;
+  border: solid 1px black;
+  border-radius: 20px;  
+  margin-left: 1000px;
+  margin-top: -450px;
+ }
+ .children img{
+  margin-left: 50px;
+  border-radius: 20px; 
+  margin-top: 20px;
+}
+.children h2{
+  margin-left: 50px;
+  margin-top: -5px;
+}
+.children h5{
+  margin-left: 40px;
+  margin-top: -5px;
+}
+.children button{
+  margin-left: 40px;
+  background-color: rgb(243, 43, 12);
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+ }
+ .view button{
+  background-color: rgb(243, 43, 12);
+  width: 120px;
+  height: 50px;
+  margin-left: 500px;
+  margin-top: 40px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+ }
+ .join{
+  background-color: rgb(80,80,80);
+  width: 100%;
+  height: 600px;
+  grid-template-columns: 2fr;
+  
+ }
+ .join img{
+  margin-left: 50px;
+  margin-top: 45px; 
+ }
+ .today{
+  margin-left: 80px;
+  margin-top: 50px;
+ }
+
+ .today2{
+  margin-top: 60px;
+ }
+ 
+ .today1{
+  background-color: rgb(67,79,98); 
+  margin-left: 650px;
+  width: 500px;
+  height: 400px;
+  margin-top: -150px;
+  border-radius: 25px;
+ }
+ .involve{
+  margin-left: 150px;
+ }
+ .for{
+  border: solid 1px white;
+  border-radius: 25px;
+  width: 400px;
+  height: 250px;
+  background-color: rgb(244,244,244);
+ }
+ .for button{
+  background-color: rgb(243, 43, 12);
+  width: 145px;
+  height: 45px;
+  margin-left: 60px;
+  margin-top: -10px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+ }
+ .days{
+  margin-left: 600px;
+  border: solid 1px white;
+  border-radius: 25px;
+  width: 400px;
+  height: 250px;
+  background-color: rgb(244,244,244);
+  margin-top: -250px;
+  
+ }
+ .days button{
+  background-color: rgb(243, 43, 12);
+  width: 145px;
+  height: 45px;
+  margin-left: 60px;
+  margin-top: -20px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+ }
+ .visit{
+  border: solid 1px white;
+  border-radius: 25px;
+  width: 400px;
+  height: 250px;
+  background-color: rgb(244,244,244);
+  margin-top: 40px;
+ }
+ .visit button{
+  background-color: rgb(243, 43, 12);
+  width: 145px;
+  height: 45px;
+  margin-left: 60px;
+  margin-top: -10px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+ }
+ .return{
+  margin-left: 600px;
+  border: solid 1px white;
+  border-radius: 25px;
+  width: 400px;
+  height: 250px;
+  background-color: rgb(244,244,244);
+  margin-top: -250px;
+ }
+ .return button{
+  background-color: rgb(243, 43, 12);
+  width: 145px;
+  height: 45px;
+  margin-left: 60px;
+  margin-top: -50px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+ }
+ p{
+  color: blue;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 60px;
+ }
+ .involve button{
+  background-color: rgb(243, 43, 12);
+  width: 140px;
+  height: 40px;
+  margin-left: 200px; 
+  border: none;
+  border-radius: 25px;
+  color: white;
+  
+ }
+ .change{
+  background-color: rgb(158,128,2);
+ }
+ .change h1{
+  margin-left: 60px;
+ }
+ .change h5{
+  margin-left: 60px;
+ }
+ .change button{
+  margin-left: 950px;
+  background-color: rgb(243, 43, 12);
+  border: none;
+  border-radius: 25px;
+  color: white;
+  width: 140px;
+  height: 40px;
+  margin-top: 10px; 
+ }
+ .loc{
+  background-color:rgb(57,57,57);
+  width: 100%;
+  height: 400px;
+  
+ }
+ .out{
+  margin-left: 70px;
+ }
+ .out img{
+  margin-top: 80px;
+ }
+ .inf{
+  margin-left: 350px;
+  margin-top: -150px;
+ }
+ .inf a{
+  color: white;
+  text-decoration: none;
+ }
+ .support{
+  margin-left: 850px;
+  margin-top: -220px;
+ }
+ .support a{
+  color: white;
+  text-decoration: none;
+ }
+ .office{
+  margin-left: 600px;
+  margin-top: -160px;
+ }
+ a:hover {
+  color:rgb(241, 91, 72);
+}
+.footer{
+margin-left: 80px;
+
+}
+.footer1{
+  margin-left: 1000px;
+  width: 300px;
+ 
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+}
+.footer1 {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(243, 43, 12);;
+  font-size: 30px;
+  
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+} 
+
+.fb
+{
+
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.footer2 {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(243, 43, 12);;
+  font-size: 30px;
+  
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 1050px;
+  margin-top: -42px;
+} 
+.tw
+{
+
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+
+.footer3 {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(243, 43, 12);;
+  font-size: 30px;
+  
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 1099px;
+  margin-top: -42px;
+} 
+.inst
+{
+
+  height: 25px;
+  width: 25px;
+  margin-left: 3px;
+  margin-top: 3px;
+}
+
+.footer4 {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(243, 43, 12);;
+  font-size: 30px;
+  
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 1150px;
+  margin-top: -42px;
+} 
+.ytube
+{
+
+  height: 25px;
+  width: 25px;
+  margin-top: 3px;
+}
+
+
+.footer5 {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(243, 43, 12);;
+  font-size: 30px;
+  
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 1200px;
+  margin-top: -42px;
+} 
+.sqr
+{
+
+  height: 25px;
+  width: 25px;
+  margin-top: 3px;
+}
+
+
+
+
+                
+
+  
+
+
+   
